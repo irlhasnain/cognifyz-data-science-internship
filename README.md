@@ -25,7 +25,7 @@ cognifyz-data-science-internship/
 ├── Level_2_Cognifyz.ipynb        # Level 2 tasks notebook
 ├── Level_3_Cognifyz.ipynb        # Level 3 tasks notebook
 │
-├── images/                       # Saved visualisation outputs
+├── assets/                       # Saved visualisation outputs
 │   ├── l2_t1_booking_delivery.png
 │   ├── l2_t1_rating_vs_booking.png
 │   ├── l2_t2_price_range_dist.png
